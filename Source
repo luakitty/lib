@@ -1,4 +1,4 @@
-
+	
 --[[
 	i will fill this shit out later
 ]]
@@ -153,7 +153,7 @@ function Library:Create(info)
 		TabButton.Name = TabName
 		TabButton.Parent = SideMenu
 		TabButton.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
-		TabButton.BackgroundTransparency = 0.050
+		TabButton.BackgroundTransparency = 0.5
 		TabButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		TabButton.BorderSizePixel = 0
 		TabButton.Size = UDim2.new(0, 139, 0, 31)
